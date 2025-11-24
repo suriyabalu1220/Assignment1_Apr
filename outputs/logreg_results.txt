@@ -1,0 +1,16 @@
+Logistic Regression Results
+==================================================
+Accuracy: 0.8654
+Precision: 0.4517
+Recall: 0.9116
+F1: 0.6041
+AUC: 0.9438
+
+              precision    recall  f1-score   support
+
+          no       0.99      0.86      0.92      7310
+         yes       0.45      0.91      0.60       928
+
+    accuracy                           0.87      8238
+   macro avg       0.72      0.89      0.76      8238
+weighted avg       0.93      0.87      0.88      8238

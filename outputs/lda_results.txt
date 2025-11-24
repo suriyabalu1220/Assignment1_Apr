@@ -1,0 +1,16 @@
+LDA Results
+==================================================
+Accuracy: 0.9137
+Precision: 0.6492
+Recall: 0.5086
+F1: 0.5704
+AUC: 0.9403
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.95      7310
+           1       0.65      0.51      0.57       928
+
+    accuracy                           0.91      8238
+   macro avg       0.79      0.74      0.76      8238
+weighted avg       0.91      0.91      0.91      8238
